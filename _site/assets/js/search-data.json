@@ -343,7 +343,7 @@
   },"57": {
     "doc": "Initiating Grand Child",
     "title": "This is the grand child test page.",
-    "content": ". Does this also work as a heading . I wonder! . ",
+    "content": ". Does this also work as a heading . I wonder! . Heading 3 Link . View typography utilities . ",
     "url": "http://localhost:4000/PMC/docs/1_initiating/initiating_grandchild/#this-is-the-grand-child-test-page",
     "relUrl": "/docs/1_initiating/initiating_grandchild/#this-is-the-grand-child-test-page"
   },"58": {
