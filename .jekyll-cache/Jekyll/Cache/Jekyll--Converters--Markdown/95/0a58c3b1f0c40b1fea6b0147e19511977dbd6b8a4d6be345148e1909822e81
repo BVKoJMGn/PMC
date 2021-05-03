@@ -1,0 +1,482 @@
+I"z0<h1 class="no\_toc" id="acronyms">Acronyms</h1>
+
+<h2 class="no\_toc text-delta" id="table-of-contents">Table of contents</h2>
+
+<ol id="markdown-toc">
+  <li><a href="#acronyms" id="markdown-toc-acronyms">Acronyms</a>    <ol>
+      <li><a href="#table-of-contents" id="markdown-toc-table-of-contents">Table of contents</a></li>
+      <li><a href="#pmp-acronyms" id="markdown-toc-pmp-acronyms">PMP Acronyms</a></li>
+      <li><a href="#pmp-renewal-for-certified-pmps-acronyms" id="markdown-toc-pmp-renewal-for-certified-pmps-acronyms">PMP Renewal (for certified PMPs) Acronyms</a></li>
+      <li><a href="#pmi-certification-acronyms" id="markdown-toc-pmi-certification-acronyms">PMI certification Acronyms</a></li>
+      <li><a href="#construction-acronyms" id="markdown-toc-construction-acronyms">Construction Acronyms</a></li>
+    </ol>
+  </li>
+</ol>
+
+<h2 id="pmp-acronyms">PMP Acronyms</h2>
+<dl>
+  <dt>AC</dt>
+  <dd>Actual Cost</dd>
+  <dt>ACWP</dt>
+  <dd>Actual Cost of Work Performed</dd>
+  <dt>ADM</dt>
+  <dd>Arrow Diagramming Method</dd>
+  <dt>ADR</dt>
+  <dd>Alternative Dispute Resolution</dd>
+  <dt>AE</dt>
+  <dd>Apportioned Effort</dd>
+  <dt>AOA</dt>
+  <dd>Activity-on-Arrow</dd>
+  <dt>AON</dt>
+  <dd>Activity-on-Node</dd>
+  <dt>ARMA</dt>
+  <dd>Autoregressive Moving Average</dd>
+  <dt>BAC</dt>
+  <dd>Budget at Completion</dd>
+  <dt>BARF</dt>
+  <dd>“Bought-into, Approved, Realistic, Formal”</dd>
+  <dt>BCR</dt>
+  <dd>Benefit Cost Ratio</dd>
+  <dt>BCWP</dt>
+  <dd>Budgeted Cost of Work Performed</dd>
+  <dt>BCWS</dt>
+  <dd>Budgeted Cost of Work Scheduled</dd>
+  <dt>CA</dt>
+  <dd>Control Account</dd>
+  <dt>CBR</dt>
+  <dd>Cost Benefit Ratio</dd>
+  <dt>CBT</dt>
+  <dd>Computer-Based Test</dd>
+  <dt>CCB</dt>
+  <dd>Change Control Board</dd>
+  <dt>CCS</dt>
+  <dd>Change Control System</dd>
+  <dt>CH</dt>
+  <dd>Contact Hours</dd>
+  <dt>CMMI®</dt>
+  <dd>Capability Maturity Model Integrated</dd>
+  <dt>COC</dt>
+  <dd>Cost of Conformance</dd>
+  <dt>CONC</dt>
+  <dd>Cost of Non-Conformance</dd>
+  <dt>COQ</dt>
+  <dd>Cost of Quality</dd>
+  <dt>CPAF</dt>
+  <dd>Cost Plus Award Fee</dd>
+  <dt>CPF</dt>
+  <dd>Cost Plus Fee</dd>
+  <dt>CPFF</dt>
+  <dd>Cost Plus Fixed Fee</dd>
+  <dt>CPI</dt>
+  <dd>Cost Performance Index</dd>
+  <dt>CPIF</dt>
+  <dd>Cost Plus Incentive Fee</dd>
+  <dt>CPM</dt>
+  <dd>Critical Path Methodology</dd>
+  <dt>CR</dt>
+  <dd>Change Request</dd>
+  <dt>CV</dt>
+  <dd>Cost Variance</dd>
+  <dt>DFD</dt>
+  <dd>Data Flow Diagram</dd>
+  <dt>DOE</dt>
+  <dd>Design of Experiments</dd>
+  <dt>DU</dt>
+  <dd>Duration</dd>
+  <dt>DUR</dt>
+  <dd>Duration</dd>
+  <dt>EAC</dt>
+  <dd>Estimate at Completion</dd>
+  <dt>EEF</dt>
+  <dd>Enterprise Environmental Factors</dd>
+  <dt>EF</dt>
+  <dd>Early Finish</dd>
+  <dt>EMV</dt>
+  <dd>Expected Monetary Value</dd>
+  <dt>EPV</dt>
+  <dd>Expected Present Value</dd>
+  <dt>ES</dt>
+  <dd>Early Start</dd>
+  <dt>ETC</dt>
+  <dd>Estimate to Complete</dd>
+  <dt>EV</dt>
+  <dd>Earned Value</dd>
+  <dt>EVA</dt>
+  <dd>Earned Value Analysis</dd>
+  <dd>
+    <p>Economic Value Add</p>
+  </dd>
+  <dt>EVM</dt>
+  <dd>Earned Value Management</dd>
+  <dt>EVT</dt>
+  <dd>Earned Value Technique</dd>
+  <dt>FF</dt>
+  <dd>Finish-to-Finish</dd>
+  <dt>FFP</dt>
+  <dd>Firm Fixed Price</dd>
+  <dt>FMEA</dt>
+  <dd>Failure Mode and Effect Analysis</dd>
+  <dt>FP-EPA</dt>
+  <dd>Fixed Price with Economic Price Adjustment</dd>
+  <dt>FPIF</dt>
+  <dd>Fixed Price Incentive Fee</dd>
+  <dt>FS</dt>
+  <dd>Finish-to-Start</dd>
+  <dt>FV</dt>
+  <dd>Future Value</dd>
+  <dt>HR</dt>
+  <dd>Human Resource</dd>
+  <dt>IFB</dt>
+  <dd>Invitation for Bid</dd>
+  <dt>IO</dt>
+  <dd>Inputs and Outputs</dd>
+  <dt>IRR</dt>
+  <dd>Internal Rate of Return</dd>
+  <dt>ISO</dt>
+  <dd>International Organization for Standardization</dd>
+  <dt>ITTO</dt>
+  <dd>“Inputs, Tools, Techniques and Outputs”</dd>
+  <dt>JAD</dt>
+  <dd>Joint Application Development (or Design)</dd>
+  <dt>JIT</dt>
+  <dd>Just in Time</dd>
+  <dt>KA</dt>
+  <dd>Knowledge Area</dd>
+  <dt>LF</dt>
+  <dd>Late Finish</dd>
+  <dt>LL</dt>
+  <dd>Lessons Learned (or Learnt)</dd>
+  <dt>LOE</dt>
+  <dd>Level of Effort</dd>
+  <dt>LS</dt>
+  <dd>Late Start</dd>
+  <dt>NPV</dt>
+  <dd>Net Present Value</dd>
+  <dt>OBS</dt>
+  <dd>Organizational Breakdown Structure</dd>
+  <dt>OPA</dt>
+  <dd>Organizational Process Assets</dd>
+  <dt>OPM3®</dt>
+  <dd>Organizational Project Management Maturity Model</dd>
+  <dt>PBT</dt>
+  <dd>Paper-Based Test</dd>
+  <dt>PDCA</dt>
+  <dd>Plan Do Check Act</dd>
+  <dt>PDM</dt>
+  <dd>Precedence Diagramming Method</dd>
+  <dt>PERT</dt>
+  <dd>Program Evaluation and Review Technique</dd>
+  <dt>PM</dt>
+  <dd>Project Manager</dd>
+  <dd>
+    <p>Project Management</p>
+  </dd>
+  <dt>PMB</dt>
+  <dd>Performance Measurement Baseline</dd>
+  <dt>PMBOK®</dt>
+  <dd>Project Management Body of Knowledge</dd>
+  <dt>PMI®</dt>
+  <dd>Project Management Institute</dd>
+  <dt>PMIS</dt>
+  <dd>Project Management Information System</dd>
+  <dt>PMO</dt>
+  <dd>Project Management Office</dd>
+  <dt>PMP®</dt>
+  <dd>Project Management Professional</dd>
+  <dt>PTA</dt>
+  <dd>Point of Total Assumption</dd>
+  <dt>PV</dt>
+  <dd>Planned Value</dd>
+  <dd>
+    <p>Present Value</p>
+  </dd>
+  <dt>QA</dt>
+  <dd>Quality Assurance</dd>
+  <dt>QC</dt>
+  <dd>Quality Control</dd>
+  <dt>QFD</dt>
+  <dd>Quality Function Deployment</dd>
+  <dt>QP</dt>
+  <dd>Quality Planning</dd>
+  <dt>RACI</dt>
+  <dd>“Responsible, Accountable, Consult and Inform”</dd>
+  <dt>RAM</dt>
+  <dd>Responsibility Assignment Matrix</dd>
+  <dt>RBS</dt>
+  <dd>Resource Breakdown Structure</dd>
+  <dd>
+    <p>Risk Breakdown Structure</p>
+  </dd>
+  <dt>RFI</dt>
+  <dd>Request for Information</dd>
+  <dt>RFP</dt>
+  <dd>Request for Proposal</dd>
+  <dt>RFQ</dt>
+  <dd>Request for Quotation</dd>
+  <dt>ROI</dt>
+  <dd>Return on Investment</dd>
+  <dt>ROM</dt>
+  <dd>Rough Order of Magnitude</dd>
+  <dt>SF</dt>
+  <dd>Start-to-Finish</dd>
+  <dt>SME</dt>
+  <dd>Subject Matter Expert</dd>
+  <dt>SOW</dt>
+  <dd>Statement of Work</dd>
+  <dt>SPI</dt>
+  <dd>Schedule Performance Index</dd>
+  <dt>SS</dt>
+  <dd>Start-to-Start</dd>
+  <dt>SV</dt>
+  <dd>Schedule Variance</dd>
+  <dt>SWOT</dt>
+  <dd>“Strengths, Weaknesses, Opportunities and Threats”</dd>
+  <dt>T&amp;M</dt>
+  <dd>Time and Material</dd>
+  <dt>TCPI</dt>
+  <dd>To-Complete Performance Index</dd>
+  <dt>TQM</dt>
+  <dd>Total Quality Management</dd>
+  <dt>TT</dt>
+  <dd>Tools and Techniques</dd>
+  <dt>VAC</dt>
+  <dd>Variance at Completion</dd>
+  <dt>VE</dt>
+  <dd>Value Engineering</dd>
+  <dt>VOC</dt>
+  <dd>Voice of the Customer</dd>
+  <dt>WAS</dt>
+  <dd>Work Authorization System</dd>
+  <dt>WBS</dt>
+  <dd>Work Breakdown Structure</dd>
+  <dt>WPI</dt>
+  <dd>Work Performance Information</dd>
+  <dt>9x5</dt>
+  <dd>9 Knowledge Areas x 5 Process Groups</dd>
+</dl>
+
+<h2 id="pmp-renewal-for-certified-pmps-acronyms">PMP Renewal (for certified PMPs) Acronyms</h2>
+
+<dl>
+  <dt>CCR</dt>
+  <dd>Continuing Certification Requirements</dd>
+  <dt>CEU</dt>
+  <dd>Continuing Education Unit</dd>
+  <dt>PDU</dt>
+  <dd>Professional Development Unit</dd>
+  <dt>SDL</dt>
+  <dd>Self-Directed Learning</dd>
+  <dt>SIG</dt>
+  <dd>Specific Interest Group</dd>
+</dl>
+
+<h2 id="pmi-certification-acronyms">PMI certification Acronyms</h2>
+
+<dl>
+  <dt>CAPM®</dt>
+  <dd>Certified Associate in Project Management</dd>
+  <dt>PgMP®</dt>
+  <dd>Program Management Professional</dd>
+  <dt>PMI-ACP®</dt>
+  <dd>PMI Agile Certified Practitioner</dd>
+  <dt>PMI-REP®</dt>
+  <dd>PMI Registered Education Provider</dd>
+  <dt>PMI-RMP®</dt>
+  <dd>PMI Risk Management Professional</dd>
+  <dt>PMI-SP®</dt>
+  <dd>PMI Scheduling Professional</dd>
+</dl>
+
+<h2 id="construction-acronyms">Construction Acronyms</h2>
+
+<dl>
+  <dt>ABWF</dt>
+  <dd>Architectural Builders Work and Finishes</dd>
+  <dt>AMMR</dt>
+  <dd>Alternative Materials Methods Request</dd>
+  <dt>BAW</dt>
+  <dd>Bid Analysis Worksheet</dd>
+  <dt>BMS</dt>
+  <dd>Building Management System</dd>
+  <dt>BQ / BoQ</dt>
+  <dd>Bill of Quantities</dd>
+  <dt>CA</dt>
+  <dd>Construction Administration</dd>
+  <dt>CAV</dt>
+  <dd>Constant Air Volume</dd>
+  <dt>CBWD</dt>
+  <dd>Combined Builders Work Drawings</dd>
+  <dt>CCMS</dt>
+  <dd>Command Control Monitor System</dd>
+  <dt>CI</dt>
+  <dd>Client Instruction</dd>
+  <dt>CMI</dt>
+  <dd>Construction Managers Instruction</dd>
+  <dt>CN</dt>
+  <dd>Change Notice</dd>
+  <dt>CO</dt>
+  <dd>Change Order</dd>
+  <dt>CR</dt>
+  <dd>Change Request</dd>
+  <dt>CS</dt>
+  <dd>Construction Supervision</dd>
+  <dt>CSD</dt>
+  <dd>Construction Shop Drawing</dd>
+  <dt>CSID</dt>
+  <dd>Combined Services Installation Drawings</dd>
+  <dt>CSIS</dt>
+  <dd>Combined Services Installation Section</dd>
+  <dt>CRCP</dt>
+  <dd>Combined RCP</dd>
+  <dt>DDC</dt>
+  <dd>Digital Data Control</dd>
+  <dt>DSR</dt>
+  <dd>Daily Site Report</dd>
+  <dt>EBI</dt>
+  <dd>Enterprise Buildings Integrator</dd>
+  <dt>EDMS</dt>
+  <dd>Electronic Document Management System</dd>
+  <dt>EW</dt>
+  <dd>Early Warning</dd>
+  <dt>FLSCP</dt>
+  <dd>Fire Life Safety Conservation Plan</dd>
+  <dt>FCU</dt>
+  <dd>Fan Coil Unit</dd>
+  <dt>GBP</dt>
+  <dd>General Building Plan</dd>
+  <dt>GI</dt>
+  <dd>Galvanised Iron</dd>
+  <dt>GOD</dt>
+  <dd>Grant Outline Drawing</dd>
+  <dt>GRMS</dt>
+  <dd>Guest Room Management Systems</dd>
+  <dt>ICE</dt>
+  <dd>Independent Checking Engineer</dd>
+  <dt>ICT</dt>
+  <dd>Information Communications Tech</dd>
+  <dt>ILQ</dt>
+  <dd>Imported Labour Quota</dd>
+  <dt>ISD</dt>
+  <dd>Individual Services Drawing</dd>
+  <dt>ITP</dt>
+  <dd>Inspection Test Plan</dd>
+  <dt>ITT</dt>
+  <dd>Invitation To Tender</dd>
+  <dt>KEF</dt>
+  <dd>Kitchen Exhaust Fan</dd>
+  <dt>KPI</dt>
+  <dd>Key Performance Indicator</dd>
+  <dt>MAF</dt>
+  <dd>Main Air Flow</dd>
+  <dt>MCP</dt>
+  <dd>Master Construction Program</dd>
+  <dt>MPL</dt>
+  <dd>Master Punch List</dd>
+  <dt>MSD</dt>
+  <dd>Mould Shop Drawing</dd>
+  <dt>MRS</dt>
+  <dd>Materials Reference Schedule</dd>
+  <dt>NAC</dt>
+  <dd>Notice Administrative Charge</dd>
+  <dt>NCE</dt>
+  <dd>No Cost Expected</dd>
+  <dt>NCR</dt>
+  <dd>Non-Conformance Report</dd>
+  <dt>NOD</dt>
+  <dd>Notice of Delay</dd>
+  <dt>NOE</dt>
+  <dd>Notice of Event</dd>
+  <dt>NODW</dt>
+  <dd>Notice of Damaged Works</dd>
+  <dt>NOPD</dt>
+  <dd>Notice of Potential Delay</dd>
+  <dt>NOW</dt>
+  <dd>Notice of Works</dd>
+  <dt>O&amp;M</dt>
+  <dd>Operations and maintenance (manual)</dd>
+  <dt>OASA</dt>
+  <dd>Owner Appointed Supply Agreement</dd>
+  <dt>OGT</dt>
+  <dd>Oil Grease Trap</dd>
+  <dt>O&amp;P</dt>
+  <dd>Overheads and Profits</dd>
+  <dt>OP</dt>
+  <dd>Occupation Permit</dd>
+  <dt>OS&amp;E</dt>
+  <dd>Operating Supplies and Equipment</dd>
+  <dt>P&amp;SC</dt>
+  <dd>Procurement and Supply Chain</dd>
+  <dt>PCU</dt>
+  <dd>Public Consultants U</dd>
+  <dt>PMU</dt>
+  <dd>Performance Mock Up</dd>
+  <dt>PTC</dt>
+  <dd>Post Tender Clarifications</dd>
+  <dt>PQP</dt>
+  <dd>Project Quality Plan</dd>
+  <dt>PS</dt>
+  <dd>Provisional Sums</dd>
+  <dt>PSD</dt>
+  <dd>Production Shop Drawing</dd>
+  <dt>QCP</dt>
+  <dd>Quality Control Point</dd>
+  <dt>QHP</dt>
+  <dd>Quality Hold Point</dd>
+  <dt>R&amp;M</dt>
+  <dd>Repair and maintenance</dd>
+  <dt>RCT</dt>
+  <dd>Retail Coordination Team</dd>
+  <dt>RIN</dt>
+  <dd>Request Inspection Notice</dd>
+  <dt>RFC</dt>
+  <dd>Request for Feasibility and Cost</dd>
+  <dt>RFCI</dt>
+  <dd>Request For Client Instruction</dd>
+  <dt>RFI</dt>
+  <dd>Request For Information</dd>
+  <dt>RFO</dt>
+  <dd>Request Filling Opening</dd>
+  <dt>RFP</dt>
+  <dd>Request For Proposal</dd>
+  <dt>RSO</dt>
+  <dd>Request Structural Opening</dd>
+  <dt>RSS</dt>
+  <dd>Resident Site Staff</dd>
+  <dt>RTRFI</dt>
+  <dd>Response To RFI</dd>
+  <dt>SIN</dt>
+  <dd>Safety Inspection Notice</dd>
+  <dt>SOP</dt>
+  <dd>Standard Operating Procedure</dd>
+  <dt>SOR</dt>
+  <dd>Schedule of Rate</dd>
+  <dt>SQE</dt>
+  <dd>Supply Quality Engineering</dd>
+  <dt>T&amp;C</dt>
+  <dd>Testing and Commissioning</dd>
+  <dt>TBS</dt>
+  <dd>Tenant Billing System</dd>
+  <dt>TEBA</dt>
+  <dd>Tenant Energy Billing Application</dd>
+  <dt>TES</dt>
+  <dd>Check again</dd>
+  <dt>TPCS</dt>
+  <dd>Trade Package Contents Sheet</dd>
+  <dt>TPDD</dt>
+  <dd>Third Party Due Diligence</dd>
+  <dt>TPN</dt>
+  <dd>Triple Pole and Neutral</dd>
+  <dt>TPPS</dt>
+  <dd>Trade Package Procurement Schedule</dd>
+  <dt>VAV</dt>
+  <dd>Variable Air Volume</dd>
+  <dt>VCD</dt>
+  <dd>Volume Control Damper</dd>
+  <dt>VFD</dt>
+  <dd>Variable Frequency Drive</dd>
+  <dt>Star rate</dt>
+  <dd>Not in contact rate.</dd>
+  <dt>Electrical bonding</dt>
+  <dd>?</dd>
+</dl>
+:ET
